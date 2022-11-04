@@ -1,0 +1,16 @@
+Sass arihtektura
+--bloks 
+
+Table 
+
+Template shablon
+
+// Tiyoriya
+
+
+import va export
+
+export Bu qaysdur faylni yuborish
+import Bu qaysdur faylni qabul qilb olish yani ishlatish
+
+
